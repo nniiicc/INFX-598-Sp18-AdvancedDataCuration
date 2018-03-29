@@ -37,6 +37,6 @@ For Spring 2018 we will look at three particular emerging topics in data curatio
 The goal for each topic is to create a "primer" for data curators. This will require us to spend 2-3 weeks searching for literature, reading, discussing, and summarizing each topic until we have a good handle on the major issues, the points of debate and contention, and the future directions for curating data in this area. 
 
 Readings and documentaiton: 
-- [Zotero](https://www.zotero.org/groups/2154923/infx-598-sp18-advanceddatacuration_ (send me your Zotero account name and I'll add you the the group)
+- [Zotero](https://www.zotero.org/groups/2154923/infx-598-sp18-advanceddatacuration) (send me your Zotero account name and I'll add you the the group)
 - Github (this repository)  
-- - [Wiki[(https://github.com/nniiicc/INFX-598-Sp18-AdvancedDataCuration/wiki)
+- - [Wiki](https://github.com/nniiicc/INFX-598-Sp18-AdvancedDataCuration/wiki)
